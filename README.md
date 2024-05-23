@@ -1,16 +1,7 @@
 ****Agentic Generative Artificial Intelligence (AGenAI)****
 
-AGenAI is a type of AI that autonomously performs a variety of tasks and creates new content, such as text, images, or music.
+AGenAI is emerging, building on advances like GPT-4 and DALL-E. Fully autonomous and generalizable AGenAI is still a future goal.
 
-It combines the autonomy of agentic AI with the creative capabilities of generative AI.
+This reporsatory based on course Multi AI Agent Systems with crewAI, Its timely and great resources for realtime application development.
 
-**Key Features of AGenAI:**
-Autonomy: Operates independently.
-
-Generative Capabilities: Produces original content.
-Generalization: Performs diverse tasks.
-Adaptability: Learns from new experiences.
-Creativity: Creates innovative content.
-Reasoning and Problem Solving: Solves complex issues creatively.
-Self-improvement: Continuously enhances its abilities. 
                                             
