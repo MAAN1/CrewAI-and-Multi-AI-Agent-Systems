@@ -6,3 +6,14 @@ AGenAI is emerging, building on advances like GPT-4 and DALL-E. Fully autonomous
 
 To the foundational concepts of multi-agent systems
 an overview of the crewAI framework.
+
+**Multi-agent Customer Support Automation**
+
+In this lesson, you will learn about the six key elements which help make Agents perform even better:
+
+Role Playing
+Focus
+Tools
+Cooperation
+Guardrails
+Memory
